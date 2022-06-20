@@ -33,36 +33,6 @@
         {
             "message" : {
             "id" : 4,
-            "datetime" : 1654516734, 
-            "title" : "Lorem ipsum dolor sit",
-            "short_text" : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod",
-            "long_text" : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,",
-            "image" : "https://raw.githubusercontent.com/Firefokz/coding/main/placeholder.jpg"
-            }
-        },
-        {
-            "message" : {
-            "id" : 5,
-            "datetime" : 1646485213, 
-            "title" : "Lorem ipsum dolor",
-            "short_text" : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod",
-            "long_text" : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et",
-            "image" : "https://raw.githubusercontent.com/Firefokz/coding/main/placeholder.jpg"
-            }
-        },
-        {
-            "message" : {
-            "id" : 6,
-            "datetime" : 1646312413, 
-            "title" : "Lorem ipsum dolor",
-            "short_text" : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod",
-            "long_text" : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,",
-            "image" : "https://raw.githubusercontent.com/Firefokz/coding/main/placeholder.jpg"
-            }
-        },
-        {
-            "message" : {
-            "id" : 7,
             "datetime" : 1646226013, 
             "title" : "Lorem ipsum dolor sit amet elitr,",
             "short_text" : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod",
@@ -72,21 +42,12 @@
         },
         {
             "message" : {
-            "id" : 8,
+            "id" : 5,
             "datetime" : 1646139613, 
             "title" : "Lorem ipsum dolor",
             "short_text" : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod",
             "long_text" : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
            }
-        },
-        {
-            "message" : {
-            "id" : 9,
-            "datetime" : 1647781213, 
-            "title" : "Lorem ipsum dolor",
-            "short_text" : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod",
-            "long_text" : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
-            }
         }
     ]
 }
